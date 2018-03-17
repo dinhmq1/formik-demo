@@ -1,0 +1,23 @@
+{
+  "name": "formik-example",
+  "description": null,
+  "version": "0.0.0",
+  "dependencies": {
+    "yup": "0.22.0",
+    "react-virtualized-select": "3.1.0",
+    "react-virtualized": "9.9.0",
+    "react-select": "1.0.0-rc.5",
+    "react-dom": "15.5.3",
+    "react": "15.5.3",
+    "formik": "0.8.9"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
